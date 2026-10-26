@@ -65,6 +65,15 @@ A Machine Learning web application that predicts whether a hotel booking is like
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrane29&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
 </p>
 
+
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=pranavrane29&label=TOTAL+VIEWS&color=58A6FF&style=flat-square"
+    alt="Total profile views"
+  />
+</p>
+
 ---
 
 <p align="center">
