@@ -32,7 +32,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/pranavrane29/pranavrane29/output/github-snake.svg"
     alt="Animated GitHub contribution snake"
   />
 </p>
