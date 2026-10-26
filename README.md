@@ -27,6 +27,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,androidstudio,arduino,discord,fastapi,figma,ai,linux,matlab,notion,pkl,py,react,sklearn,ubuntu,mysql,git,github,vscode&perline=6" alt="Technology icons" />
 </p>
 
+
+<h2 align="center">🐍 My Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+    alt="Animated GitHub contribution snake"
+  />
+</p>
+
+
 ## 🚀 Featured Projects
 
 **Project 1:** (https://github.com/pranavrane29/ResearchIQ)
