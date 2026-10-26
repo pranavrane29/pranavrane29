@@ -1,6 +1,16 @@
 
 <h1 align="center">Hellooo, I'm Pranav 👋</h1>
 
+
+<p align="center">
+  <img
+    src="./artificial intelligence futurism GIF.gif"
+    width="400"
+    alt="Animated coding GIF"
+  />
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Computer+Engineering+Student;Exploring+Full-Stack+Development;Learning+AI+and+Machine+Learning" alt="Animated introduction" />
 </p>
